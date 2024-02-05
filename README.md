@@ -1,5 +1,5 @@
 # 42-Piscine
-Welcome to my GitHub repository for the codes I've worked on during the 42 piscine! 🚀
+Welcome to my GitHub repository for the codes I've worked on during the 42 piscine in Luxembourg! 🚀
 
 **About:**
 This repository contains my solutions, projects, and exercises completed during the 42 piscine. The 42 piscine is an intensive coding bootcamp that covers a wide range of programming concepts and projects.
